@@ -9,7 +9,7 @@
                 --color-border: silver;
                 /* Tipografías: si la primera opción no existe, pasa a la siguiente */
                 --font-sans: "Figtree", "Helvetica Neue", Helvetica, Arial, sans-serif;
-                --font-serif: "Gravitas One", Georgia, "Times New Roman", serif;
+                --font-serif: "Alegreya", Georgia, "Times New Roman", serif;
             }
 
             /* Se resetean TODOS los elementos (y sus pseudoelementos antes/después) para reiniciar márgenes y controlar el tamaño real de las cajas */
